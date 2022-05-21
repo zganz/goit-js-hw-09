@@ -16,3 +16,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+  
+}
+
+
+
+.field {
+  margin-top: 4px;
+  margin-right: 4px;
+  text-transform: uppercase;
+  background-color: #063e76;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+}
